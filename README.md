@@ -102,7 +102,7 @@ MultiHopRAG 데이터셋은 여러 문서에 걸친 추론이 필요한 복잡�
 
 ## 실험 결과
 
-![성능 비교](Code_Generated_Image%20(2).png)
+<img width="1200" height="600" alt="Code_Generated_Image_2" src="https://github.com/user-attachments/assets/18bdece4-f9b2-4574-8767-627a11ef3616" />
 
 ### 파이프라인 비교:
 
